@@ -1,0 +1,13 @@
+package com.thinkers.prodprint;
+
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+
+public class TdPrinting extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_td_printing);
+    }
+}

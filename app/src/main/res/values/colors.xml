@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3343A2</color>
+    <color name="colorPrimaryDark">#0D2088</color>
+    <color name="colorAccent">#5D6BBE</color>
+    <color name="textboxTint">#3343A2</color>
+    <color name="buttoncolor">#3343A2</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="appBackground">#FFFFFF</color>
+    <item name="hint" type="color">@android:color/darker_gray</item>
+    <color name="bg_bubble_self">#C4000000</color>
+    <color name="bg_bubble_iris">#FFFFFF</color>
+</resources>

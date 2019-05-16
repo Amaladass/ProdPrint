@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProdPrint</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">ProdPrint</string>
+    <string name="nav_header_subtitle">Watch your creation taking Shape</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="dislaimer_bar">Disclaimer</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="loginfail">Either email or password is wrong!</string>
+    <string name="invalidemail">Invalid Email</string>
+    <string name="what_s_on_your_mind">Ask me anything…</string>
+</resources>
